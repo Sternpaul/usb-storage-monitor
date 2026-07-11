@@ -11,7 +11,7 @@ The USB enclosure becomes unstable overnight — drives disconnect, filesystems 
 ## Quick Start (3 commands)
 
 ```bash
-git clone https://github.com/yourusername/usb-storage-monitor.git
+git clone https://github.com/Sternpaul/usb-storage-monitor.git
 cd usb-storage-monitor
 chmod +x setup.sh usb_storage_monitor.sh
 sudo ./setup.sh              # installs everything, detects drives
