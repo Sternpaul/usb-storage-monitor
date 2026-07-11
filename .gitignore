@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Secrets / credentials
+.env
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa*
+*.secret
+
+# Monitor output (logs and archives)
+/output/
+/var/
+/logs/
+*.tar.gz
+*.tar
+*.zip
+*.log
